@@ -1,0 +1,9 @@
+.idea/
+.vs/
+.vscode/
+backup/
+faces/*
+venv
+__pycache__
+*.sln
+*.pyproj
